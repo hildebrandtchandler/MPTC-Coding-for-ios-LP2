@@ -89,7 +89,7 @@ button#installButton {
   font-size: 1.5vw;
   cursor: pointer;
   border-radius: 5px;
-  /*display:none;*/
+  display:none;
 }
 
 button#installButton:hover {
